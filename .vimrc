@@ -3,4 +3,4 @@ syntax on
 set tabstop=4
 set shiftwidth=4
 set splitright
-set splitbelow
+cnoreabbrev term vertical terminal
